@@ -1,0 +1,8 @@
+Los aspectos significativos del proceso deben ser visibles para aquellos que son responsables del resultado.
+La transparencia requiere que dichos aspectos sean definidos por un estandar comun,
+de tal modo que los observadores compartan un entendimiento comun de lo que se estan viendo.
+Por ejemplo:
+
+* Todos los participantes deben compartir un lenguaje comun para referirse al proceso.
+* Aquellos que desempeñan el trabajo y quienes inspeccionan el incremento resultante deben
+compartir una definicion comun de "Terminado".
