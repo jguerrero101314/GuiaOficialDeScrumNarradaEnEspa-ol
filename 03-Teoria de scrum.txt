@@ -1,0 +1,5 @@
+Scrum se basa en la teoria de control de procesos empirica o empirismo. El empirismo asegura
+que el conocimiento procede de la experiencia y de tomar decisiones basandose en lo que se
+conoce. Scrum emplea un enfoque iterativo e incremental para optimizar la predictivilidad y el control del riesgo.
+3 pilares soportan toda la implementacion del control de procesos empirico: transparencia,
+inspeccion y adaptacion.
