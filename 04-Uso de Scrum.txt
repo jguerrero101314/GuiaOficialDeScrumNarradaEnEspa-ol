@@ -12,3 +12,20 @@ Scrum se ha usado para desarrollar software, hardware embebido, redes de funcion
 interactivas, vehiculos autonomos, escuelas, gobiernos, mercadeo, tambien para gestionar la
 operacion de organizaciones y casi todo lo que usamos en nuestra vida diaria, como individuo y
 como sociedad.
+
+Dado que la complejidad de la tecnologia, el mercado y del entorno y sus interacciones
+aumentan rapidamente, la utilidad de scrum para tratar con la complejidad esta a prueba
+diariamente.
+
+Scrum demostro ser especialmente efectivo en la transferencia iterativa e incremental de
+conocimiento. Scrum se usa ahora ampliamente para productos, servicios y gestion de la 
+organizacion matriz.
+
+La esencia de scrum es un pequeño equipo de personas. El equipo individual es altamente
+flexible y adaptativo. Estas fortalezas continuan operando en un equipo, en varios, en muchos y
+en redes de equipos que desarrollan, liberan, operan y mantienen el trabajo y los productos de
+trabajo de miles de personas. Ellos colaboran e interopean a traves de arquitectutas de
+desarrollo sofisticadas y ambientes finales de liberacion.
+
+Cuando las palabras "desarrollar" y "desarrollo" se usan en la guia de scrum, se refieren a 
+trabajo complejo, tales como estos identificados anteriormente.
