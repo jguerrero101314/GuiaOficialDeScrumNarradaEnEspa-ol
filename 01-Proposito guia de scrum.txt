@@ -1,0 +1,5 @@
+Scrum es un marco de trabajo para desarrollar, entregar y mantener productos compleos. Esta
+Guia contiene la definicion de scrum. Esta definicion consiste en los roles, eventos
+y artefactos de scrum y las reglas que los relacionan. ken Schwaber y Jeff Sutherland
+desarrollarom scrum; ellos escribieron y proporcionaran la guia de scrum. juntos, respaldan la
+guia de scrum
