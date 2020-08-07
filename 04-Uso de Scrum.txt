@@ -1,0 +1,14 @@
+Scrum fue desarroollado inicialmente para gestionar y desarrollar productos. Desde principios de
+los años 90 Scrum se ha usado ampliamente en todo el mundo para:
+
+1. Investigar e identificar mercados viables, tecnologias y capacidades de productos.
+1. Desarrollar productos y mejoras.
+3. Liberar productos y mejoras tantas veces como sea posible durante el dia.
+4. Desarrollar y mantener ambientes en la nube (en linea, seguros, bajo demanda) y otros 
+entornos operacionales para el uso de productos.
+5. Mantener y renovar productos.
+
+Scrum se ha usado para desarrollar software, hardware embebido, redes de funciones
+interactivas, vehiculos autonomos, escuelas, gobiernos, mercadeo, tambien para gestionar la
+operacion de organizaciones y casi todo lo que usamos en nuestra vida diaria, como individuo y
+como sociedad.
