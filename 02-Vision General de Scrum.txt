@@ -1,0 +1,26 @@
+Es un marco de trabajo por el cual las personas pueden abordar problemas complejos
+adaptativos, a la vez que entregar productos del maximo valor posible productiva y 
+creativamente.
+
+Scrum es:
+
+* Liviano
+* Facil de entender
+* Dificil de dominar
+
+Scrum es un marco de trabajo de procesos que ha sido usado para gestionar el trabajo en 
+productos complejos desde principios de los años 90. Scrum no es un proceso, una tecnica o
+metodo definitivo. En lugar de eso, es un marco de trabajo dentro del cual se pueden emplear
+varios procesos y tecnicas. Scrum muestra la eficacia relativa de las tecnicas de gestion de
+producto y las tecnicas de trabajo de modo que podamos mejorar continuamente el producto,
+el equipo y el entorno de trabajo.
+
+El marco de trabajo scrum consiste en los equipos scrum y sus roles, eventos, artefactos y reglas
+asociadas. Cada componente dentro del marco de trabajo sirve a un proposito y es
+esencial para el exito de scrum y para su uso.
+
+Las reglas de scrum relacionan los roles, eventos y artefactos y tigen las relaciones e 
+interacciones entre ellos. Las reglas de Scrum se describen en el presente documento.
+
+las estrategias especificas para usar el marco de trabajo scrum son diversas y estan descritas en
+otros lugares.
